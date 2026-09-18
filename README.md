@@ -1,1 +1,1 @@
-# License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
+# SEC-DIP-19AI406-License-Plate-Detection-
